@@ -1,0 +1,1 @@
+{"type":"object","properties":{"policy_no":{"type":"string"},"client_name":{"type":"string"},"address":{"type":"object","properties":{"Street Name":{"type":"string"},"City":{"type":"string"},"State":{"type":"string"},"P.o.Box":{"type":"number"},"Country":{"type":"string"}},"required":["Street Name","City","State","P.o.Box","Country"]}},"required":["policy_no","client_name"]}
